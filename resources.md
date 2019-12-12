@@ -34,3 +34,9 @@ https://docs.oracle.com/javaee/7/api/javax/ws/rs/core/CacheControl.html
 https://tools.ietf.org/html/rfc7234
 https://tools.ietf.org/html/rfc7234#section-5.2.3
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag
+https://docs.jboss.org/hibernate/stable/ogm/reference/en-US/html_single/
+http://datanucleus.org
+https://wiki.eclipse.org/EclipseLink/Examples/JPA/NoSQL
+https://openliberty.io/guides/
+https://www.eclipse.org/openj9/
+https://adoptopenjdk.net
