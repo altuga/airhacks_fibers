@@ -20,3 +20,17 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&v
 https://xstate.js.org/docs
 https://camunda.com/dmn/
 https://picocli.info
+https://en.wikipedia.org/wiki/Nigerian_Breweries
+https://en.wikipedia.org/wiki/Byzantine_fault
+http://www.mapdb.org
+https://www.foundationdb.org
+https://www.arangodb.com
+https://docs.confluent.io/current/clients/kafka-jms-client/index.html
+https://www.datastax.com/blog/2013/09/why-cassandra-doesnt-need-vector-clocks
+https://github.com/EsotericSoftware/kryo
+https://github.com/RuedigerMoeller/fast-serialization
+https://airflow.apache.org
+https://docs.oracle.com/javaee/7/api/javax/ws/rs/core/CacheControl.html
+https://tools.ietf.org/html/rfc7234
+https://tools.ietf.org/html/rfc7234#section-5.2.3
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag
