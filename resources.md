@@ -12,3 +12,11 @@ https://quarkus.io/guides/security-oauth2
 https://docs.jboss.org/author/display/WFLY/WildFly+Elytron+Security?_sscc=t
 https://www.keycloak.org/docs/6.0/server_installation/
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjMlYbV7a_mAhUVkFwKHbY4B0QQFjAAegQIBxAC&url=https%3A%2F%2Faws.amazon.com%2Fcorretto%2F&usg=AOvVaw1YceGZ8x646HHgCwEl31Yl
+https://www.w3.org/TR/scxml/
+https://commons.apache.org/proper/commons-scxml/
+https://github.com/AdamBien/stateful
+https://github.com/holunda-io/axon-camunda
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjGnLv29q_mAhWDUcAKHQfYBvEQFjACegQIBRAB&url=https%3A%2F%2Fwww.omg.org%2Fdmn%2F&usg=AOvVaw1nHql1QJtx9wuCuUdqK48s
+https://xstate.js.org/docs
+https://camunda.com/dmn/
+https://picocli.info
